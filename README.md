@@ -1,1 +1,3 @@
-# m2-project
+# m02g
+
+Prioritization simplified. Starting point for impact score feature.
