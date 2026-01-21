@@ -1,3 +1,11 @@
+### Headcount Simulator App
+### m02g/people_headcount_app.py
+###
+### Author: Sharon + GitHub Copilot
+### Date: Jan 20, 2026
+###
+### Simplified prioritization headcount app.
+
 import streamlit as st
 import pandas as pd
 from pathlib import Path
